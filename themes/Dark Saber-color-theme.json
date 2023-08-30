@@ -186,7 +186,7 @@
       "name": "Keyword: This",
       "scope": ["variable.language.this"],
       "settings": {
-        "foreground": "#cd6d6d"
+        "foreground": "#73a8d7"
       }
     },
     {
