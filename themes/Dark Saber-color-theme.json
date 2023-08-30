@@ -183,6 +183,34 @@
       }
     },
     {
+      "name": "Keyword: This",
+      "scope": ["variable.language.this"],
+      "settings": {
+        "foreground": "#cd6d6d"
+      }
+    },
+    {
+      "name": "Function: Parameters",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#eb9778f3"
+      }
+    },
+    {
+      "name": "Function: Parameters",
+      "scope": ["constant.numeric.decimal"],
+      "settings": {
+        "foreground": "#eb9778f3"
+      }
+    },
+    {
+      "name": "Function: Parameters",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#eb9778f3"
+      }
+    },
+    {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "constant.numeric",
@@ -190,7 +218,6 @@
         "support.constant",
         "constant.character",
         "constant.escape",
-        "variable.parameter",
         "keyword.other.unit",
         "keyword.other"
       ],

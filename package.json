@@ -3,6 +3,17 @@
   "displayName": "Dark Saber",
   "description": "VS Code Color Theme",
   "version": "0.0.1",
+  "publisher": "chrisMartinezDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisMartinezDeveloper/dark-saber.git"
+  },
+  "keywords": [
+    "dark",
+    "dark theme",
+    "chrisMartinezDev",
+    "chrisMartinezDev dark"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
