@@ -1,3 +1,1 @@
-# dark-saber README
-
-## Dark Saber
+# Dark Saber
