@@ -227,6 +227,17 @@
       }
     },
     {
+      "name": "Object Properties",
+      "scope": [
+        "meta.object-literal.key",
+        "support.variable.property",
+        "variable.other.object.property"
+      ],
+      "settings": {
+        "foreground": "#d6d1c9f2"
+      }
+    },
+    {
       "name": "Symbols, Inherited Class, Markup Heading",
       "scope": [
         "constant.other.symbol",
@@ -237,7 +248,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#54cf9e"
+        "foreground": "#d6d1c9f2"
       }
     },
     {
@@ -260,7 +271,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#d6d1c9"
+        "foreground": "#d6d1c9f2"
       }
     },
     {
@@ -274,7 +285,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#d6d1c9"
+        "foreground": "#d6d1c9f2"
       }
     },
     {
@@ -318,7 +329,14 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#d6d1c9"
+        "foreground": "#d6d1c9f2"
+      }
+    },
+    {
+      "name": "HTML Text",
+      "scope": ["text.html.derivative"],
+      "settings": {
+        "foreground": "#E59071F3"
       }
     },
     {
