@@ -231,7 +231,8 @@
       "scope": [
         "meta.object-literal.key",
         "support.variable.property",
-        "variable.other.object.property"
+        "variable.other.object.property",
+        "variable.other.property"
       ],
       "settings": {
         "foreground": "#d6d1c9f2"
@@ -336,7 +337,7 @@
       "name": "HTML Text",
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#E59071F3"
+        "foreground": "#6dd5adef"
       }
     },
     {
