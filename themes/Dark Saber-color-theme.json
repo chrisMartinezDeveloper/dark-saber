@@ -235,7 +235,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#d6d1c9f2"
+        "foreground": "#ffe6b4f0"
       }
     },
     {
@@ -337,7 +337,7 @@
       "name": "HTML Text",
       "scope": ["text.html.derivative"],
       "settings": {
-        "foreground": "#59ba95"
+        "foreground": "#e3be75"
       }
     },
     {
