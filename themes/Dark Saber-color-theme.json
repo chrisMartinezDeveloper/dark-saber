@@ -25,8 +25,9 @@
     "editorGroupHeader.tabsBorder": "#83714d80",
     "tab.activeBackground": "#314b68",
     "tab.activeForeground": "#f4d493",
-    "tab.inactiveBackground": "#243d5880",
+    "tab.inactiveBackground": "#0a273b",
     "tab.inactiveForeground": "#a8bacb80",
+    "tab.border": "#6a5a3a80",
     "editor.background": "#0a273b",
     "editor.foreground": "#f4d493",
     "editorLineNumber.foreground": "#a8bacb80",
@@ -235,7 +236,7 @@
         "variable.other.property"
       ],
       "settings": {
-        "foreground": "#ffe6b4f0"
+        "foreground": "#E3BE75"
       }
     },
     {
